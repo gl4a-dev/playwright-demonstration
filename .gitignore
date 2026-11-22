@@ -2,3 +2,7 @@
 .vscode/
 
 **/__pycache__/
+
+demonstrations/videos/
+demonstrations/*.har
+demonstrations/*.zip
